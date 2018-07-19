@@ -1,2 +1,2 @@
 # Socket
-Java Socket test，包括TCP、UTP
+Java Socket demo，包括TCP、UDP连接
